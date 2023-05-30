@@ -78,7 +78,7 @@ In order to run this project you need:
 
 - You need to have NodeJS installed
 - A Web Browser Google Chrome, Firefox, etc
-- A Code Editor VSCode,
+- A Code Editor VSCode, Atom etc 
 
 ### Setup
 
