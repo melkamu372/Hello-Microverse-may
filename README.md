@@ -97,7 +97,20 @@ Install this project with:
 ```
 npm install
 ```
+### Install
 
+Install Stylelint
+```
+npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+
+````
+npx stylelint "**/*.{css,scss}"
+
+```
+npx stylelint "**/*.{css,scss}" --fix
+```
+npm install
+```
 ### Usage
 
 To run the project, execute the following command:
